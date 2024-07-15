@@ -1,0 +1,3 @@
+D:/Dev/PNGParser/cmake-build-debug/CMakeFiles/PNGParser.dir
+D:/Dev/PNGParser/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Dev/PNGParser/cmake-build-debug/CMakeFiles/rebuild_cache.dir
